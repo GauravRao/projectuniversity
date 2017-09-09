@@ -1,0 +1,51 @@
+.setBackgroundGrey{
+	font-family: 'MyWebFont' !important;
+	width: 105% !important;
+}
+.table {
+  width: 99%;
+  background-color: #fff;
+  margin-top: 2%;
+}
+
+.setMarginTop {
+  margin-top: 10%;
+}
+
+.sidebar .nav, .off-canvas-sidebar .nav {
+  margin-left: 6%;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  border: none !important;
+  height: 50px;
+}
+
+.titleStyle{
+	font-size: 18px;
+	color: #656565;
+	font-weight: 400;
+	line-height: 50px;
+}
+.innerHeadStyle{
+	color: #ccc;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+.setCollegeStyle{
+	box-shadow: none;
+	border: none;
+	color: #ccc;
+}
+.setColorBlue{
+	color: #96C3FB;
+}
+
+.setBorderBottom{
+	border-bottom: 1px solid #ececec;
+}
+.addCollege{
+	color: #9EA9B7;
+	margin-top: 10px;
+}
